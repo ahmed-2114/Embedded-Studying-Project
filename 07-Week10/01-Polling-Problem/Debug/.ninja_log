@@ -1,0 +1,16 @@
+# ninja log v5
+0	165	7854526325706155	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Obj/main.o	23d123bd63bcbf48
+172	491	7854526328973760	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Exe/01-Polling-Problem.out	847aaa25e0a6a1ea
+2	109	7854528250141549	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Obj/main.o	23d123bd63bcbf48
+118	173	7854528250804350	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Exe/01-Polling-Problem.out	847aaa25e0a6a1ea
+2	103	7854528572663302	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Obj/main.o	23d123bd63bcbf48
+113	169	7854528573342623	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Exe/01-Polling-Problem.out	847aaa25e0a6a1ea
+1	107	7854528893912682	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Obj/main.o	23d123bd63bcbf48
+116	173	7854528894610094	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Exe/01-Polling-Problem.out	847aaa25e0a6a1ea
+2	246	7854530433942562	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Obj/main.o	23d123bd63bcbf48
+258	319	7854530434727655	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Exe/01-Polling-Problem.out	847aaa25e0a6a1ea
+2	290	7854534545806331	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Obj/main.o	23d123bd63bcbf48
+301	368	7854534546680357	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Exe/01-Polling-Problem.out	847aaa25e0a6a1ea
+1	278	7854597198254731	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Obj/main.o	23d123bd63bcbf48
+8	303	7854597198509264	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Obj/systick.o	5d50daacca0a14c2
+311	407	7854597199547780	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/07-Week10/01-Polling-Problem/Debug/Exe/01-Polling-Problem.out	eab364218c24df35

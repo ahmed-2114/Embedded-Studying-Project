@@ -1,0 +1,12 @@
+# ninja log v5
+8	129	7861119071046159	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/02-Timer32bit-Standard/Debug/Obj/main.o	c88ba2a9d19a653c
+1	156	7861119071327984	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/02-Timer32bit-Standard/Debug/Obj/dio.o	10296284c74e6f5f
+165	243	7861119072256203	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/02-Timer32bit-Standard/Debug/Exe/02-Timer32bit-Standard.out	d59a39cf37a3f585
+1	218	7861120218033052	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/02-Timer32bit-Standard/Debug/Obj/main.o	c88ba2a9d19a653c
+227	283	7861120218793890	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/02-Timer32bit-Standard/Debug/Exe/02-Timer32bit-Standard.out	d59a39cf37a3f585
+1	328	7874283538449307	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/02-Timer32bit-Standard/Debug/Obj/main.o	c88ba2a9d19a653c
+337	463	7874283539910713	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/02-Timer32bit-Standard/Debug/Exe/02-Timer32bit-Standard.out	d59a39cf37a3f585
+2	151	7874285250136561	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/02-Timer32bit-Standard/Debug/Obj/main.o	c88ba2a9d19a653c
+160	228	7874285251010923	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/02-Timer32bit-Standard/Debug/Exe/02-Timer32bit-Standard.out	d59a39cf37a3f585
+1	143	7874285851984304	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/02-Timer32bit-Standard/Debug/Obj/main.o	c88ba2a9d19a653c
+153	220	7874285852860201	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/02-Timer32bit-Standard/Debug/Exe/02-Timer32bit-Standard.out	d59a39cf37a3f585

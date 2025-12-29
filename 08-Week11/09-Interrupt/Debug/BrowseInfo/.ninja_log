@@ -1,0 +1,22 @@
+# ninja log v5
+1	122	7867497420000000	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/main.xcl	fca6beeb710573f7
+129	176	7867497426087649	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/main.pbi	e1cc71caf9feca8c
+182	195	7867497426316216	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/09-Interrupt.pbd	1dd127fe5f61d2b1
+201	468	7867497428802923	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/09-Interrupt.pbw	5d3727d04f9da2cc
+0	121	7867498868388041	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/main.pbi	e1cc71caf9feca8c
+128	166	7867498868864600	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/09-Interrupt.pbd	1dd127fe5f61d2b1
+173	928	7867498876055184	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/09-Interrupt.pbw	5d3727d04f9da2cc
+1	108	7867503107024147	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/main.pbi	e1cc71caf9feca8c
+116	164	7867503107618377	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/09-Interrupt.pbd	1dd127fe5f61d2b1
+172	1035	7867503115933426	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/09-Interrupt.pbw	5d3727d04f9da2cc
+1	141	7867503168324379	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/main.pbi	e1cc71caf9feca8c
+147	198	7867503168933132	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/09-Interrupt.pbd	1dd127fe5f61d2b1
+205	1039	7867503176959685	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/09-Interrupt.pbw	5d3727d04f9da2cc
+12	149	7867504430000000	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/startup_ewarm.xcl	d2c39ee50e99904c
+1	164	7867504430000000	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/dio.xcl	d96572909c9f7b3f
+20	176	7867504430000000	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/main.xcl	eba039f2ebb09e1d
+159	217	7867504439522588	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/startup_ewarm.pbi	a0e30e772b871ba6
+171	264	7867504439996205	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/dio.pbi	605a2d401e76bd76
+184	271	7867504440061351	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/main.pbi	e1cc71caf9feca8c
+277	324	7867504440622030	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/09-Interrupt.pbd	29937f0483343564
+332	1033	7867504447337791	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/09-Interrupt/Debug/BrowseInfo/09-Interrupt.pbw	5d3727d04f9da2cc
