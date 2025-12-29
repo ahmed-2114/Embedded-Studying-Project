@@ -1,0 +1,18 @@
+# ninja log v5
+8	384	7861116770861567	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Obj/main.o	4b634f3c86ae88f8
+1	420	7861116771266901	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Obj/dio.o	cd8572d9f17a010e
+429	669	7861116773794024	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Exe/01-Timer16bit.out	a312ff1862e17eb3
+3	384	7861196867073267	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Obj/main.o	4b634f3c86ae88f8
+395	477	7861196868131351	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Exe/01-Timer16bit.out	a312ff1862e17eb3
+9	324	7862055309205211	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Obj/main.o	4b634f3c86ae88f8
+332	444	7862055310481346	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Exe/01-Timer16bit.out	a312ff1862e17eb3
+3	146	7862055523477274	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Obj/main.o	4b634f3c86ae88f8
+155	231	7862055524407166	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Exe/01-Timer16bit.out	a312ff1862e17eb3
+2	545	7886247916144600	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Obj/main.o	4b634f3c86ae88f8
+560	1642	7886247927021465	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Exe/01-Timer16bit.out	a312ff1862e17eb3
+4	229	7886248737118374	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Obj/main.o	4b634f3c86ae88f8
+242	385	7886248738718615	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Exe/01-Timer16bit.out	a312ff1862e17eb3
+4	506	7886259561994666	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Obj/main.o	4b634f3c86ae88f8
+522	689	7886259563887812	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Exe/01-Timer16bit.out	a312ff1862e17eb3
+3	219	7886259851575595	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Obj/main.o	4b634f3c86ae88f8
+234	388	7886259853162823	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/01-Timer16bit/Debug/Exe/01-Timer16bit.out	a312ff1862e17eb3

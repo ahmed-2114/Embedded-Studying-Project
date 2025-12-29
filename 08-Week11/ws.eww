@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\01-Timer16bit\01-Timer16bit.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\02-Timer32bit-Standard\02-Timer32bit-Standard.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\03-Timer32bit-Wide\03-Timer32bit-Wide.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\04-Timer64bit\04-Timer64bit.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\05-OneShot\05-OneShot.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\06-Periodic\06-Periodic.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\07-Capture\07-Capture.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\08-Polling\08-Polling.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\09-Interrupt\09-Interrupt.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

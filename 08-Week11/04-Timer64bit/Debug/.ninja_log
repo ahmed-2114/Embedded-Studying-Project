@@ -1,0 +1,7 @@
+# ninja log v5
+1	279	7861126593132320	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/04-Timer64bit/Debug/Obj/dio.o	bd003d6a47a28016
+9	288	7861126593212075	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/04-Timer64bit/Debug/Obj/main.o	3f3df7ea541909d9
+296	432	7861126594761725	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/04-Timer64bit/Debug/Exe/04-Timer64bit.out	fbee6d5a725f0fbb
+2	130	7861127066256133	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/04-Timer64bit/Debug/Obj/main.o	d668de89a778bdeb
+9	175	7861127066711515	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/04-Timer64bit/Debug/Obj/dio.o	4edb4757196e061b
+183	255	7861127067543431	C:/Users/ahmed/OneDrive - Garraio/Faculty/CSE211 Introduction to Embedded/02-Labs/02-Lab_Projects/08-Week11/04-Timer64bit/Debug/Exe/04-Timer64bit.out	4db7b1e0babbce86
